@@ -1,3 +1,6 @@
+> [!WARNING]
+> This repository is no longer maintained.
+
 # Introduction
 
 This repo is a Gatsby V2 (next) [Storyblok](https://www.storyblok.com) starter template.
